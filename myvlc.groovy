@@ -607,7 +607,7 @@ private def textCopyright() {
 }
 
 private def LOG(message) {
-    //log.trace message
+    log.trace message
 }
 
 private def STATE() {
